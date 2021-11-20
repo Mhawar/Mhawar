@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mhawar Abderrahmane
 - 👀 I’m interested in Data science, software developement.
-- 💞️ I’m looking to collaborate on Personal finance and Productivity Apps
+- 💞️ I’m looking to collaborate on Personal Finance and Productivity Apps
 - 📫 You can reach By Linkedin: Mhawar Abderrahmane
 
 <!---
